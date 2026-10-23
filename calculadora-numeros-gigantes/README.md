@@ -20,11 +20,11 @@ Este é o meu primeiro projeto desenvolvido na disciplina de Fundamentos de Prog
 
 As operações são realizadas simulando o processo manual:
 
-- Soma: dígito por dígito com controle de vai-um
-- Subtração: dígito por dígito com empréstimo
-- Multiplicação: simulação da multiplicação tradicional
-- Exponenciação: multiplicações sucessivas
-- Fatorial: multiplicações sucessivas de 1 até n
+- **Soma:** dígito por dígito com controle de vai-um
+- **Subtração:** dígito por dígito com empréstimo
+- **Multiplicação:** simulação da multiplicação tradicional
+- **Exponenciação:** multiplicações sucessivas
+- **Fatorial:** multiplicações sucessivas de 1 até n
 
 ## 💻 Linguagem utilizada
 
